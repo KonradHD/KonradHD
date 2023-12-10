@@ -5,3 +5,4 @@
 - [Click here](https://github.com/KonradHD/KonradHD.github.io) if you want to know the pros of taking up gym.
 
 - [Link do repozytorium związanego z etyką sztucznej inteligencji](https://github.com/KonradHD/awesome-artificial-intelligence-guidelines)
+- [Ppaers with code](https://paperswithcode.com/paper/a-survey-of-bias-in-machine-learning-through)
