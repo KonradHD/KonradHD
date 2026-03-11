@@ -2,7 +2,7 @@
 
 I'm a **Computer Science and Intelligent Systems** student at AGH University of Science and Technology in Krakow. I am a huge enthusiast of new technologies, bodybuilding and Greek cuisine😊
 
-<!--I am passionate about backend development, data engineering, and artificial intelligence. I enjoy solving complex problems, whether it's optimizing data pipelines, building scalable web APIs, or training machine learning models.-->
+
 
 ### 🚀 What I'm up to
 * **Currently working on:**
