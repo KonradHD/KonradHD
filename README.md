@@ -4,7 +4,7 @@ I'm a **Computer Science and Intelligent Systems** student at AGH University of 
 
 
 
-### 🚀 What I'm up to
+### What I'm up to
 * **Currently working on:**
   * A telemetry data integration and visualization web app for **AGH Space Systems**, enabling quick search and better workflow with data analytics.
   * Trading system which aim is to automate buying and selling financial credit instruments using different metrics and analysis.
@@ -12,12 +12,12 @@ I'm a **Computer Science and Intelligent Systems** student at AGH University of 
 * **Currently learning:** Advanced concepts in distributed systems, Big Data processing, LLMs fine-tuning and relearning Java/Spring.
 * **Looking for:** A Software Engineering or Data Engineering Internship where I could solve large-scale problems.
 
-### 🛠️ Tech Stack
+### Tech Stack
 * **Languages:** Python, Java, SQL, JavaScript/TypeScript
 * **Backend & APIs:** Express.js, Spring Framework, FastAPI, Flask
 * **Data & Machine Learning:** Scikit-learn, TensorFlow, Pandas, NumPy, OpenCV, OSMnx
 * **Frontend:** React, HTML/CSS
-* **Tools & Platforms:** Git, Linux, Redis, Docker, PostgreSQL, MS SQL Server
+* **Tools & Platforms:** Git, Linux, Redis, Docker, Swarm, PostgreSQL, MS SQL Server
 
 
 <!--
