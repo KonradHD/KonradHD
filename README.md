@@ -8,8 +8,9 @@ I'm a **Computer Science and Intelligent Systems** student at AGH University of 
 * **Currently working on:**
   * A telemetry data integration and visualization web app for **AGH Space Systems**, enabling quick search and better workflow with data analytics.
   * Trading system which aim is to automate buying and selling financial credit instruments using different metrics and analysis.
-  * Modern RAG Framework responsible for mitigating hallucinations in LLM models and enhancing answers truthfullness based on the huge databases. 
-* **Currently learning:** Advanced concepts in distributed systems, Big Data processing, LLMs fine-tuning and relearning Java/Spring.
+  * A research project aimed at testing different LLMs in order to assess their capability in supporting requirements analysis throughout the entire Software Development Life Cycle.
+  * Designing custom loss function and selecting neural network architecture for computing priority weights using noisy pairwise comparison matrix.  
+* **Currently learning:** Advanced concepts in distributed systems, LLMs fine-tuning, advanced neural network usage and relearning Java/Spring.
 * **Looking for:** A Software Engineering or Data Engineering Internship where I could solve large-scale problems.
 
 ### Tech Stack
