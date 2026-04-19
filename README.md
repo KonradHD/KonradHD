@@ -15,7 +15,7 @@ I'm a **Computer Science and Intelligent Systems** student at AGH University of 
 
 ### Tech Stack
 * **Languages:** Python, Java, SQL, JavaScript/TypeScript
-* **Backend & APIs:** Express.js, Spring Framework, FastAPI, Flask
+* **Backend & APIs:** Spring Framework, Hibernate, Flyway, Express.js, FastAPI, Flask
 * **Data & Machine Learning:** Scikit-learn, TensorFlow, Pandas, NumPy, OpenCV, OSMnx
 * **Frontend:** React, HTML/CSS
 * **Tools & Platforms:** Git, Linux, Redis, Docker, Swarm, PostgreSQL, MS SQL Server
